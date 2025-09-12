@@ -19,3 +19,4 @@ faiss-cpu
 sentence_transformers
 youtube-search
 streamlit
+ddgs
